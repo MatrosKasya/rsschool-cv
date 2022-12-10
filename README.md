@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://MatrosKasya.github.io/rsschool-cv/cv
