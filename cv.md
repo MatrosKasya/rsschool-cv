@@ -7,7 +7,7 @@
 + **Location:** Moscow, Russia
 
 ## About me:
-I am 44 years old. I work as a sales manager and I want to learn Front-End in RSSchool.
+I work as a sales manager and I want to learn Front-End in RSSchool.
 
 ## Education
 **University:** Moscow State Night Metallurgical Institute
