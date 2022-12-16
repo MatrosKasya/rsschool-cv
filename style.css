@@ -5,28 +5,17 @@
 html {
   scroll-behavior: smooth;
 }
-header {
-  display: block;
-  padding: 0 10px;
-}
-main {
-  display: block;
-}
-footer {
-  display: block;
-  padding: 10px;
-}
 .header {
-  border: block;
+  display: block;
   background-color: #aad1f5;
   padding: 0 20px;
 }
 .main {
-  border: block;
+  display: block;
   padding: 0 20px;
 }
 .footer {
-  border: block;
+  display: block;
   background-color: #aad1f5;
   padding: 0 20px;
 }
@@ -117,7 +106,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: o auto;
   color: #0f1424;
   }
 .link {
@@ -133,4 +121,8 @@ body {
 }
 ul {
   padding-inline-start: 20px;
+}
+.rss-logo {
+  width: 100px;
+  height: 100px;
 }
